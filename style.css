@@ -11,4 +11,16 @@ body{
     max-width: 1000px;
     background-color: #e4f9e4 ;
     margin: 0 auto ;
+    padding : 20px;
+}
+
+header{
+
+}
+
+.profile-image{
+    width:100px ;
+    height: 120px;
+    border: 3px solid white;
+    border-radius: 50%;
 }
