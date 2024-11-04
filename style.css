@@ -60,14 +60,11 @@ hr{
 }
 
 #personal-section{
-    border: 1px solid yellow;
-    height: 300px;
+    
 }
 
 .content{
-    border: 1px solid black;
-    height: 200px;
-    padding: 40px;
+    
 }
 
 .left-div{
@@ -78,4 +75,12 @@ hr{
 .right-div{
     width: 60%;
     float: left;
+}
+
+.horizontal{
+    border: solid black 1px;
+    border-bottom: none;
+    width: 100%;
+    margin: 20px auto;
+
 }
