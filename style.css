@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: aliceblue;
+}
+
+.container{
+    max-width: 1000px;
+    background-color: #e4f9e4 ;
+    margin: 0 auto ;
+}
