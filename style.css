@@ -58,3 +58,21 @@ hr{
     margin: 20px auto;
     border-bottom: none;
 }
+
+#personal-section{
+
+}
+
+.content{
+
+}
+
+.left-div{
+    width: 40%;
+    float: left;
+}
+
+.right-div{
+    width: 60%;
+    float: left;
+}
