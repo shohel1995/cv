@@ -84,9 +84,16 @@ hr{
 .footer{
     background-color: black;
     text-align: center;
-    padding: 20px;
+    padding: 10px;
 }
 
 .footer a{
     color: white;
+    text-decoration: none;
+    margin: 10px;
+}
+.footer p{
+    color: white;
+    text-decoration: none;
+    margin: 10px;
 }
